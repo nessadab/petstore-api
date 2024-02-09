@@ -1,0 +1,16 @@
+{
+  "id": 33221,
+  "category": {
+    "id": 0,
+    "name": "Sponge"
+  },
+  "name": "Sponge Bob",
+  "photoUrls": ["string"],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Nickelodeon"
+    }
+  ],
+  "status": "available"
+}
